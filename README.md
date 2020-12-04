@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://mouadzeghraoui.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-https://mouadzeghraoui.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mzeghraoui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouad%20Zeghraoui-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:mouadzeghraoui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mouadzeghraoui@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://mouadzeghraoui.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Website-https://mouadzeghraoui.github.io-blue?style=flat-square&logo=github&logoColor=276DC3"></a>
+<a href="https://www.linkedin.com/in/mzeghraoui/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouad%20Zeghraoui-blue?style=flat-square&logo=linkedin&logoColor=276DC3"></a>
+<a href="mailto:mouadzeghraoui@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mouadzeghraoui@gmail.com-blue?style=flat-square&logo=gmail&logoColor=276DC3"></a>
 </p>
