@@ -13,14 +13,20 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=276DC3)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy&logoColor=276DC3)
+  ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=scikit-learn&logoColor=276DC3)
 - 🔧 &nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20notebook-333333?style=flat&logo=Jupyter)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+- ⚙️ &nbsp;
+  ![RedHat](https://img.shields.io/badge/-Red%20Hat%20OpenShift-333333?style=flat&logo=red%20hat%20open%20shift)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![K8s](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  
+
 
 <br/>
 
