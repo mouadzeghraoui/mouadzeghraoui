@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGZxN37B1LFfg/profile-displaybackgroundimage-shrink_350_1400/0/1602756593480?e=1612396800&v=beta&t=iG8Yy2CNOyYhE-wrsOr6q3KjHaS0v8B8qIbWhklFt64">
+<img src="https://ibm.box.com/s/n41gp17grf33cbhsm5t9v8msaknl5y13">
 
 <h2> Hey there! I'm Mouad. Welcome to my GitHub Profile. 😃</h2>
 
