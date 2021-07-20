@@ -1,4 +1,4 @@
-<img src="https://ibm.box.com/s/n41gp17grf33cbhsm5t9v8msaknl5y13">
+<img src="https://ibm.box.com/shared/static/n41gp17grf33cbhsm5t9v8msaknl5y13.png">
 
 <h2> Hey there! I'm Mouad. Welcome to my GitHub Profile. 😃</h2>
 
